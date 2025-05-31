@@ -1,4 +1,4 @@
-# GRIP Task 2 Prediction Using Unsupervised ML with R
+# Prediction Using Unsupervised ML with R
 # prepared by - Soumabha Bhim
 
 # Load necessary libraries
